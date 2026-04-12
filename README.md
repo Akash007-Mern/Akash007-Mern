@@ -80,9 +80,13 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash007-Mern&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash007-Mern&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
