@@ -1,1 +1,120 @@
-![snake gif](https://raw.githubusercontent.com/Akash007-Mern/Akash007-Mern/output/github-contribution-grid-snake-blue.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Akash%20Dhimal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h1 align="center">Hi 👋, I'm Akash Dhimal</h1>
+
+<h3 align="center">🚀 MERN Stack Developer | Passionate Coder</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+* 🔭 Currently working on **MERN Stack Projects**
+* 🌱 Learning **Advanced Backend & System Design**
+* 💡 Love building **real-world applications**
+* ⚡ Fun fact: I turn coffee ☕ into code 💻
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge\&logo=express)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge\&logo=mongodb)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Gym Management System
+
+* 🏋️ Full-stack MERN project
+* 🔐 Authentication system
+* 📊 Admin & user dashboard
+
+### 🔹 My Portfolio
+
+* 🌐 Personal portfolio website
+* 🎨 Modern UI design
+* ⚡ Fast & responsive
+
+### 🔹 Next.js Boilerplate
+
+* ⚙️ Ready-to-use setup
+* 🚀 Optimized performance
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Akash007-Mern&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash007-Mern&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Akash007-Mern/Akash007-Mern/output/github-contribution-grid-snake-rainbow.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Akash007-Mern&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram" />
+</a>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Akash007-Mern">
+<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+⭐ From Akash Dhimal
