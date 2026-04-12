@@ -55,25 +55,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash007-Mern&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akash007-Mern&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
