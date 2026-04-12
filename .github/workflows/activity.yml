@@ -1,1 +1,26 @@
+name: Keep Contribution Graph Active
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Make commit
+        run: |
+          date > activity.txt
+          git config user.name "Akash007-Mern"
+          git config user.email "your-email@example.com"
+          git add .
+          git commit -m "Keep graph active" || echo "No changes"
+          git push
