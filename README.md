@@ -21,13 +21,6 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript)
-
 ### ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js)
@@ -62,11 +55,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Dashboard
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash007-Mern&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 ## 🏆 GitHub Achievements
