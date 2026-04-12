@@ -1,1 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/Akash007-Mern/Akash007-Mern/output/dist/github-contribution-grid-snake.svg)
+https://github.com/Akash007-Mern/Akash007-Mern/blob/output/github-contribution-grid-snake.svg
