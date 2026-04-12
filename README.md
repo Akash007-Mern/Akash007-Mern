@@ -5,7 +5,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Passionate Coder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
 </p>
 
 ---
