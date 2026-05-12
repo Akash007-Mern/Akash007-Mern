@@ -71,11 +71,6 @@ Individual Project | Java OOP | BlueJ
 Stack: Java, OOP (Inheritance, Abstraction), BlueJ, Swing GUI
 
 
-### 🔹 Next.js Boilerplate
-
-* ⚙️ Ready-to-use setup
-* 🚀 Optimized performance
-
 ---
 
 ## 📊 GitHub Stats
