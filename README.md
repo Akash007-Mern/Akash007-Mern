@@ -83,8 +83,7 @@
 <a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram" />
 </a>
-<a href="www.linkedin.com/in/
-akash-dhimal">
+<a href="https://www.linkedin.com/in/akash-dhimal/">
 <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/Akash007-Mern">
