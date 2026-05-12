@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 TriageTech — AI-Powered Medical Triage (Nepal) ⚕️
+### 🔹TriageTech — AI-Powered Medical Triage (Nepal) ⚕️
 
 Hackathon 2025 | Team Project
 
@@ -46,8 +46,7 @@ Hackathon 2025 | Team Project
 Stack: FastAPI (Python), React PWA, Nepali NLP, GeoJSON
 📄 Responsible AI Docs
 
-
-🔹 CourtSync — Futsal Court Booking System 🏟️
+### 🔹CourtSync — Futsal Court Booking System 🏟️
 
 Team Project
 
@@ -59,7 +58,7 @@ Team Project
 Stack: React 18, TypeScript, Vite, Framer Motion, React Router, Tailwind CSS
 
 
-🔹 Gym Management System 🏋️
+### 🔹Gym Management System 🏋️
 
 Individual Project | Java OOP | BlueJ
 
