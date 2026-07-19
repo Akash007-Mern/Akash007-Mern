@@ -1,18 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Akash%20Dhimal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Akash Dhimal</h1>
-
-<h3 align="center">🚀 DotNet Full Stack Developer | Passionate Coder</h3>
+<h3 align="center">🚀 .NET Full Stack Developer | Passionate Coder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+C%23+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **MERN Stack Projects**
+* 🔭 Currently working on **ASP.NET Core & C# Projects**
 * 🌱 Learning **Advanced Backend & System Design**
 * 💡 Love building **real-world applications**
 * ⚡ Fun fact: I turn coffee ☕ into code 💻
@@ -21,76 +20,71 @@
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Blazor](https://img.shields.io/badge/Blazor-20232A?style=for-the-badge&logo=blazor)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge\&logo=express)
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-20232A?style=for-the-badge&logo=dotnet)
 
 ### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoftsqlserver)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-20232A?style=for-the-badge&logo=dotnet)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge\&logo=mongodb)
+### ☁️ Tools & Cloud
+![Azure](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=microsoftazure)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visualstudio)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹TriageTech — AI-Powered Medical Triage (Nepal) ⚕️
-
+### 🔹 TriageTech — AI-Powered Medical Triage (Nepal) ⚕️
 Hackathon 2025 | Team Project
-
-
 🧠 Role: AI/ML Lead — designed the rule-based triage engine, conducted bias audit, led responsible AI documentation
 🌐 Bilingual (English + Nepali) symptom classifier: 🟢 Home Care / 🟡 See Doctor / 🔴 Emergency
 🏥 Clinic locator using Nepal MoHP geospatial data and Haversine distance formula
 📋 Full Responsible AI documentation: bias analysis, failure modes, misuse scenarios
-Stack: FastAPI (Python), React PWA, Nepali NLP, GeoJSON
+**Stack:** FastAPI (Python), React PWA, Nepali NLP, GeoJSON
 📄 Responsible AI Docs
 
-### 🔹CourtSync — Futsal Court Booking System 🏟️
-
+### 🔹 CourtSync — Futsal Court Booking System 🏟️
 Team Project
-
-
 ⚽ Dark-themed futsal slot booking PWA for Nepal
 🔐 User authentication with role-based access (User / Admin)
 📅 Real-time slot management and booking history
 💬 AI-powered chat assistant integration
-Stack: React 18, TypeScript, Vite, Framer Motion, React Router, Tailwind CSS
+**Stack:** ASP.NET Core Web API, Entity Framework Core, SQL Server, React 18, TypeScript, Vite, Tailwind CSS
 
-
-### 🔹Gym Management System 🏋️
-
-Individual Project | Java OOP | BlueJ
-
-
+### 🔹 Gym Management System 🏋️
+Individual Project | C# OOP
 👥 Member management with two membership types: Regular and Premium
 📊 Attendance tracking with auto loyalty points (Regular: 5pts, Premium: 10pts)
 💳 Plan upgrade logic (Basic → Standard → Deluxe) based on attendance eligibility
 💰 Payment tracking and 10% discount on full premium payment
-🗂️ File-based data persistence using Java Serialization
-Stack: Java, OOP (Inheritance, Abstraction), BlueJ, Swing GUI
-
+🗂️ File-based data persistence using serialization
+**Stack:** C#, .NET, OOP (Inheritance, Abstraction), Windows Forms / WPF
 
 ---
 
 ## 📊 GitHub Stats
 
-
 ## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash007-Mern&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 ---
 
-
 ## 👀 Profile Views
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Akash007-Mern&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -98,7 +92,6 @@ Stack: Java, OOP (Inheritance, Abstraction), BlueJ, Swing GUI
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram" />
@@ -112,5 +105,4 @@ Stack: Java, OOP (Inheritance, Abstraction), BlueJ, Swing GUI
 </p>
 
 ---
-
 ⭐ From Akash Dhimal
